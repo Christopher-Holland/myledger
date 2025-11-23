@@ -43,46 +43,48 @@
 
 1. **Clone the repository:**
 
-```bash
+bash
 git clone https://github.com/Christopher-Holland/myledger.git
 cd myledger
-```
+
 
 2. **Install backend dependencies:**
 
-```bash
+bash
 cd backend
 npm install
-```
+
 
 3. **Install frontend dependencies:**
 
-```bash
+bash
 cd ../frontend
 npm install
-```
 
-4. **Create a `.env` file in the `backend` folder** with the following content:
 
-```
+4. **Create a '.env' file in the 'backend' folder** with the following content:
+
+# MongoDB connection
 MONGO_URI=your_mongodb_connection_string
+
+# JWT secret
 JWT_SECRET=your_secret_key
+
+# Server port
 PORT=5000
-```
 
 5. **Start the backend server:**
 
-```bash
+bash
 cd backend
 npm start
-```
 
 6. **Start the frontend development server:**
 
-```bash
+bash
 cd ../frontend
 npm start
-```
+
 
 7. **Open the app in your browser:**  
 Visit [http://localhost:5173](http://localhost:5173)
@@ -91,12 +93,12 @@ Visit [http://localhost:5173](http://localhost:5173)
 
 ## Folder Structure
 
-```
+
 myledger/
 ├── backend/          # Node.js + Express API
 ├── frontend/         # React + TailwindCSS frontend
 ├── README.md         # Project documentation
-```
+
 
 ---
 
