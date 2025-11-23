@@ -62,22 +62,20 @@ cd ../frontend
 npm install
 
 
-4. **Create a '.env' file in the 'backend' folder** with the following content:
+4. **Create a ‘.env’ file in the ‘backend’ folder** with the following content:
 
-# MongoDB connection
+
 MONGO_URI=your_mongodb_connection_string
-
-# JWT secret
 JWT_SECRET=your_secret_key
-
-# Server port
 PORT=5000
+
 
 5. **Start the backend server:**
 
 bash
 cd backend
 npm start
+
 
 6. **Start the frontend development server:**
 
@@ -119,4 +117,4 @@ This project is licensed under the MIT License.
 - GitHub: [Christopher-Holland](https://github.com/Christopher-Holland)  
 - Portfolio: [christopher-holland.github.io/portfolio](https://christopher-holland.github.io/portfolio/)
 
-<img width="432" height="650" alt="image" src="https://github.com/user-attachments/assets/a90e6c61-0b53-43e6-ad62-cbbbe868e92f" />
+<img width="432" height="650" alt="image" src="https://github.com/user-attachments/assets/dd78d558-75df-4217-bef3-8a7c0b733d2e" />
