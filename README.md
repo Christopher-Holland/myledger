@@ -117,4 +117,4 @@ This project is licensed under the MIT License.
 - GitHub: [Christopher-Holland](https://github.com/Christopher-Holland)  
 - Portfolio: [christopher-holland.github.io/portfolio](https://christopher-holland.github.io/portfolio/)
 
-<img width="432" height="650" alt="image" src="https://github.com/user-attachments/assets/dd78d558-75df-4217-bef3-8a7c0b733d2e" />
+
